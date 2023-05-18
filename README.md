@@ -1,6 +1,6 @@
 README.md
 
-# C-U-R-D in Node.js
+# C-U-R-D in Node.js 
 
 This is a simple example of a CRUD (Create, Read, Update, Delete) application built using Node.js. The application uses an Express server and a MongoDB database to store data.
 
