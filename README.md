@@ -48,6 +48,7 @@ The application allows you to perform CRUD operations on a list of items. The ma
 This code is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 # Screenshot
-
-![ezgif-4-463cd205d9](https://github.com/IPH-Technologies-Pvt-Ltd/CRUD-API-NodeJS-MySql/assets/124572978/037e72cb-7c2b-4b3d-b1b2-b390fafdf75d)
+<img src="https://github.com/IPH-Technologies-Pvt-Ltd/CRUD-API-NodeJS-MySql/assets/124572978/037e72cb-7c2b-4b3d-b1b2-b390fafdf75d" 
+     width="700" 
+     height="450"/>
 
